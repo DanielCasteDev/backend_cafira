@@ -15,7 +15,7 @@ Sigue estos pasos para correr el proyecto en tu máquina local:
 ### . Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/tu-proyecto.git
+git clone https://github.com/DanielCasteDev/backend_cafira.git
 cd tu-proyecto
 ```
 
