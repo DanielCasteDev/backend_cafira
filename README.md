@@ -76,6 +76,6 @@ routes/api.php
 Por defecto, estas rutas se acceden con el prefijo `/api`, por ejemplo:
 
 ```
-GET http://localhost:8000/api/usuarios
-POST http://localhost:8000/api/login
+GET http://localhost:8000/api/contactos
+
 ```
